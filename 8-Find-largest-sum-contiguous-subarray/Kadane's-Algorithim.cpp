@@ -2,6 +2,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+ /*Initialize max sum to maximum negative value possible
+        according to the given constraints to get the solution when there will be all negative numbers present*/
 
  // } Driver Code Ends
 class Solution{
